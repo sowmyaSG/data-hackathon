@@ -1,1 +1,5 @@
-# data-hackathon
+ GRIEVANCE PORTAL
+
+SERVER - XAMPP
+
+DATABASE - PHP MY ADMIN
